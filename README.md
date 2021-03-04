@@ -1,2 +1,3 @@
 # Python_Mini_Projects
-A folder of all mini Python projects/ tasks 
+Currently learning Python as part of the Sky Get into Tech Scheme 
+A folder of all my mini python projects 
